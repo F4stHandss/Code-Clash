@@ -1,0 +1,6 @@
+{
+  "name": "Code Clash: Battle of Logic",
+  "description": "Game fighting 2D edukatif bertema logika pemrograman di dunia Netherium dengan animasi stickman seni bela diri yang lincah. Bertarung 1 vs 1 (Player vs CPU atau 2 Player lokal) dengan karakter Guardian Program melawan Virus Bug.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
